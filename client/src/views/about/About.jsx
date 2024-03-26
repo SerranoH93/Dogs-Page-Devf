@@ -7,7 +7,7 @@ const About = () => {
         <div>
             <NavBar />
             <div className={styles.textContainer}>
-                <p>This project was developed to put into practice the knowledge acquired during the Soy Henry bootcamp.
+                <p>This project was developed to put into practice the knowledge acquired during the DevF bootcamp.
                     To carry out the project the following technologies were used:
                     React.js, Redux, Express, Axios, Sequelize, and PostgrestSQL</p>
             </div>
